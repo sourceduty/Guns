@@ -41,10 +41,6 @@ Sourceduty will also engage with the broader community on issues of arms control
 
 #
 
-![Loaded](https://github.com/user-attachments/assets/e755873b-7508-4537-bdd4-1d4858cf21eb)
-
-#
-
 ![Robokiller](https://github.com/user-attachments/assets/b8052431-6e69-498d-928c-60e7fbed5b0b)
 
 #
@@ -63,6 +59,10 @@ Sourceduty will also engage with the broader community on issues of arms control
 [WW3](https://github.com/sourceduty/WW3)
 <br>
 [Military Product](https://github.com/sourceduty/Military_Product)
+
+#
+
+![Loaded](https://github.com/user-attachments/assets/e755873b-7508-4537-bdd4-1d4858cf21eb)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
