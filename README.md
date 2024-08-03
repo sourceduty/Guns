@@ -57,6 +57,8 @@ Sourceduty will also engage with the broader community on issues of arms control
 [WW2](https://github.com/sourceduty/WW2)
 <br>
 [WW3](https://github.com/sourceduty/WW3)
+<br>
+[Military Product](https://github.com/sourceduty/Military_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
