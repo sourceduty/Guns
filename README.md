@@ -41,6 +41,10 @@ Sourceduty will also engage with the broader community on issues of arms control
 
 #
 
+> Alex: "*My communication would remain silent in conflict or global war.*"
+
+#
+
 ![Robokiller](https://github.com/user-attachments/assets/b8052431-6e69-498d-928c-60e7fbed5b0b)
 
 #
