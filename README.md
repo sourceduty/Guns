@@ -44,6 +44,10 @@ Sourceduty will also engage with the broader community on issues of arms control
 ![Loaded](https://github.com/user-attachments/assets/e755873b-7508-4537-bdd4-1d4858cf21eb)
 
 #
+
+![Robokiller](https://github.com/user-attachments/assets/b8052431-6e69-498d-928c-60e7fbed5b0b)
+
+#
 ### Related Links
 
 [War Technology](https://github.com/sourceduty/War_Technology)
