@@ -1,6 +1,6 @@
 ![Transparent Clear Plastic AK-47](https://github.com/user-attachments/assets/6b2065ef-48fe-409f-bc90-b76061bb9eee)
 
-> Guns. ammo and international security.
+> Guns, ammo and international security.
 
 #
 
