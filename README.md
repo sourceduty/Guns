@@ -58,7 +58,7 @@ While the concept of integrating a handgun with a security camera may seem extre
 
 > "*A global movement against guns might be the only solution to any gun control problems as this is an international problem.*"
 
-> "Integrating firearm operators into a national military system could ensure that they receive enhanced national security, standardization, high-quality training, which might enhance safety, honorability and proficiency."
+> "*Integrating firearm operators into a national military system could ensure that they receive enhanced national security, standardization, high-quality training, which might enhance safety, honorability and proficiency.*"
 > 
 #
 
