@@ -54,6 +54,9 @@ While the concept of integrating a handgun with a security camera may seem extre
 
 > Alex: "*My communication would remain silent in conflict or global war.*"
 
+> Alex: "*Those who are approved to operate firearms should be integrated into a national military system and forced to homor the country they live in.*"
+
+> "*A global movement against guns might be the only solution to any gun control problems as this is an international problem.*"
 #
 
 ![Robokiller](https://github.com/user-attachments/assets/b8052431-6e69-498d-928c-60e7fbed5b0b)
