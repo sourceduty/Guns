@@ -52,7 +52,7 @@ While the concept of integrating a handgun with a security camera may seem extre
 
 
 #
-### Weapong and Honor Corruption
+### Weapons and Honor Corruption
 
 The corruption of national honor in the context of gun culture occurs when the principles of national pride, security, and responsibility are distorted to justify the proliferation and misuse of firearms. National honor, ideally, is tied to the protection of citizens, upholding justice, and maintaining peace. However, when the idea of honor is conflated with the aggressive assertion of power and the unrestricted right to bear arms, it becomes corrupted. This distortion allows for the glorification of violence and the defense of harmful practices under the guise of protecting national pride and freedom.
 
