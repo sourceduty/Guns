@@ -134,6 +134,13 @@ Unsafest Guns:
   - Strong recoil, harder to control.
   - Increased risk of accidental discharge due to recoil.
   - Requires significant handling experience.
+ 
+#
+### Accidental Shots
+
+Guns most likely to accidentally discharge often include those with a higher rate of fire and complex mechanisms. Semi-automatic pistols are particularly susceptible to accidental discharge due to their design, which allows for quick, successive firing. These guns can easily discharge if mishandled, especially if the user is unfamiliar with their operation. The presence of a round in the chamber and the lighter trigger pull compared to other firearms further increase the risk. Additionally, firearms equipped with modifications such as bump stocks, which enable rapid firing similar to fully automatic weapons, are also prone to accidental discharges due to the difficulty in maintaining control and accuracy.
+
+Fully automatic firearms and submachine guns are also at high risk of accidental discharge. These weapons are designed for continuous fire, making them difficult to control, especially in stressful situations or when operated by inexperienced users. The high rate of fire means that a single mistake or mishap, such as a finger slipping onto the trigger, can result in multiple unintended shots being fired. Furthermore, the complex internal mechanisms required to handle such rapid firing rates can occasionally malfunction, leading to accidental discharges if not properly maintained or handled.
 
 #
 
