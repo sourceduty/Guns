@@ -211,6 +211,10 @@ Transparency about the psychological dimensions of gun ownership could build tru
 ![Robokiller](https://github.com/user-attachments/assets/b8052431-6e69-498d-928c-60e7fbed5b0b)
 
 #
+
+![Coffin Machine Website](https://github.com/user-attachments/assets/1f0a1985-96bf-4a2a-8c80-2aac5070b763)
+
+#
 ### Related Links
 
 [War Technology](https://github.com/sourceduty/War_Technology)
