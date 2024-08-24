@@ -159,6 +159,15 @@ Sourceduty is a company that stands at the forefront of ethical sourcing, with a
 In supporting the firearms industry, Sourceduty recognizes the importance of balancing ethical considerations with the practical needs of gun manufacturers. The company understands that responsible sourcing is not only about avoiding conflict materials or environmental harm but also about ensuring that the supply chain is resilient and capable of delivering the necessary components on time and within budget. By partnering with Sourceduty, firearms manufacturers can enhance their reputation, reduce risks, and ensure that their products are built from materials that are sourced in accordance with both legal requirements and ethical principles. This approach allows Sourceduty to play a pivotal role in shaping a more responsible and sustainable future for the firearms industry.
 
 #
+### Police Guns
+
+In Canada, the standard firearm used by most police agencies is the semi-automatic pistol, typically chambered in 9mm. One of the most common models is the Glock 17, known for its reliability, durability, and ease of use. Other popular models include the Smith & Wesson M&P and the Sig Sauer P226. These firearms are favored due to their relatively light recoil, high magazine capacity, and the ability to be easily handled in various situations, from routine patrol duties to high-stress tactical operations.
+
+In the United States, law enforcement agencies also predominantly use semi-automatic pistols, with the Glock 22 and Glock 17 being among the most popular choices. These models are chambered in .40 S&W and 9mm, respectively. The choice between calibers often depends on the specific agency's requirements and preferences, with the .40 S&W offering slightly more stopping power, while the 9mm is valued for its larger magazine capacity and lower recoil. Other popular models include the Smith & Wesson M&P, Sig Sauer P320, and the Beretta 92.
+
+Both Canadian and American police agencies prioritize firearms that offer reliability, ease of maintenance, and the capability to handle a wide range of situations. The choice of standard issue sidearms often reflects a balance between power, accuracy, and manageability. Despite regional differences, there is a notable trend towards selecting 9mm semi-automatic pistols for their versatile performance and the advancements in modern 9mm ammunition that provide improved stopping power comparable to larger calibers.
+
+#
 
 > Alex: "*My communication would remain silent in conflict or global war.*"
 
