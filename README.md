@@ -160,7 +160,9 @@ Ultimately, the responsibility for gun safety lies with the individual handling 
 > "*A global movement against guns might be the only solution to any gun control problems as this is an international problem.*"
 
 > "*Integrating firearm operators into a national military system could ensure that they receive enhanced national security, standardization, high-quality training, which might enhance safety, honorability and proficiency.*"
-> 
+
+> "*I'm not a gun enthusiast but I know them.*" 
+
 #
 
 ![Robokiller](https://github.com/user-attachments/assets/b8052431-6e69-498d-928c-60e7fbed5b0b)
