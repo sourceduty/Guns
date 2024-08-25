@@ -213,6 +213,10 @@ Humanitarian concerns further drive NATO's decision to avoid controversial weapo
 
 #
 
+![Caveman](https://github.com/user-attachments/assets/5b9b327c-c1d9-4152-b7cd-08477fd25969)
+
+#
+
 > Alex: "*My communication would remain silent in conflict or global war.*"
 
 > Alex: "*Those who are approved to operate firearms should be integrated into a national military system and forced to honor the country they live in.*"
