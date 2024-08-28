@@ -279,6 +279,8 @@ Moreover, the depiction of military guns in movies like "Rambo" often reflects t
 [Wikipedia](https://github.com/sourceduty/Wikipedia)
 <br>
 [Drugs](https://github.com/sourceduty/Drugs)
+<br>
+[Military Chemistry](https://github.com/sourceduty/Military_Chemistry)
 
 #
 
