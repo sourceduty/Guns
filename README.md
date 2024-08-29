@@ -56,6 +56,8 @@ While the concept of integrating a handgun with a security camera may seem extre
 #
 ### Weapons and Honor Corruption
 
+![Seppuku](https://github.com/user-attachments/assets/540b3511-3d73-4153-b401-0507b579e61c)
+
 The corruption of national honor in the context of gun culture occurs when the principles of national pride, security, and responsibility are distorted to justify the proliferation and misuse of firearms. National honor, ideally, is tied to the protection of citizens, upholding justice, and maintaining peace. However, when the idea of honor is conflated with the aggressive assertion of power and the unrestricted right to bear arms, it becomes corrupted. This distortion allows for the glorification of violence and the defense of harmful practices under the guise of protecting national pride and freedom.
 
 In many countries, the right to own and use guns has become deeply entwined with the concept of national honor, often leading to a warped sense of patriotism. The narrative that equates gun ownership with the defense of national values can pressure individuals to prioritize the possession of firearms over the safety and well-being of the community. This can result in a culture where the misuse of guns is tolerated or even celebrated, as it is seen as a way to assert one's rights and uphold a distorted version of national honor. The result is a society where violence is justified, and the true principles of national pride—such as respect for life and the rule of law—are undermined.
