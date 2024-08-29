@@ -33,7 +33,7 @@ In the realm of machine guns, smart technology can introduce features like autom
 #
 ### Firearms and Heavy Arms Production
 
-![Gun Design Meme](https://github.com/user-attachments/assets/821d2d75-60dd-4aed-b3a8-e1f4f5cffd25)
+![Arctic Turret](https://github.com/user-attachments/assets/2b84d838-beb4-4841-adb9-2626c40ce779)
 
 Sourceduty is committed to upholding the highest ethical standards in the use and production of firearms and heavy arms. As a company that values innovation and social responsibility, Sourceduty will ensure that any engagement in firearms-related projects strictly adheres to national and international laws, including compliance with export controls, arms embargoes, and human rights standards. The company will prioritize transparency in all transactions, ensuring that products are only sold to entities that demonstrate a clear commitment to ethical use and that there is no risk of these arms contributing to violence, conflict, or human rights abuses.
 
