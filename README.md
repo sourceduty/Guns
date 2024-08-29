@@ -1,4 +1,4 @@
-![Transparent Clear Plastic AK-47](https://github.com/user-attachments/assets/6b2065ef-48fe-409f-bc90-b76061bb9eee)
+![Transparent Clear Plastic AK-47](https://github.com/user-attachments/assets/52649ae8-511d-4da9-a969-2a33e79f6919)
 
 > Guns, ammo and international security. Research.
 
