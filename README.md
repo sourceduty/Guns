@@ -259,7 +259,7 @@ Moreover, the depiction of military guns in movies like "Rambo" often reflects t
 
 #
 
-![Caveman](https://github.com/user-attachments/assets/5b9b327c-c1d9-4152-b7cd-08477fd25969)
+![Gold Gatling Gun](https://github.com/user-attachments/assets/48c8ad84-ff95-4f76-8386-6015897a97f3)
 
 #
 
