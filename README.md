@@ -222,7 +222,7 @@ NATO's innovation efforts are designed to integrate new technologies into its op
 #
 ### Weapon Experiments
 
-![Weapon Experiment](https://github.com/user-attachments/assets/e456ee3c-d5ea-4e18-9f39-64757df3b8bf)
+![Weapon Experiment](https://github.com/user-attachments/assets/290111db-e022-4dc8-bd5b-77a0833b50c7)
 
 Weapon experiments have long been a controversial yet integral part of military research and development, often driven by the need to gain a technological edge in warfare. These experiments involve testing the effectiveness, accuracy, and destructive power of various weapons, ranging from conventional firearms to advanced missile systems and even biological or chemical agents. The primary objective is to understand how these weapons perform under different conditions, including varying climates, terrains, and against diverse targets. Such experiments can lead to significant advancements in military technology, but they also raise ethical concerns, particularly when they involve potentially hazardous materials or the development of weapons of mass destruction.
 
