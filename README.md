@@ -297,7 +297,7 @@ Military bunkers, designed for protection and strategic defense, often house a v
 In addition to machine guns, military bunkers are equipped with heavier weaponry to deal with armored threats. Anti-tank guided missiles (ATGMs) like the Javelin or the Russian Kornet are frequently stationed within bunkers, providing the capability to destroy enemy tanks and armored personnel carriers from a distance. These bunkers may also have recoilless rifles and rocket-propelled grenades (RPGs) for closer encounters. These weapons are essential in defending against armored assaults, allowing bunkers to maintain a defensive perimeter even under heavy enemy pressure.
 
 #
-### Land and Naval Artillery
+### Air, Land and Naval Artillery
 
 ![Artillery](https://github.com/user-attachments/assets/cc272f23-71c9-460e-8a70-c99f68d3241f)
 
