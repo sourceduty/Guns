@@ -316,19 +316,19 @@ This table categorizes modern artillery systems and firearms across various plat
 |                     | M110                                 | 203 mm       | Self-propelled        | 24 km        | USA                |
 |                     | 2S7 Pion                             | 203 mm       | Self-propelled        | 37–47 km     | Russia             |
 |                     | Caesar Howitzer                      | 155 mm       | Wheeled               | 40 km        | France             |
-
+|---------------------|--------------------------------------|--------------|----------------------|--------------|--------------------|
 | Naval Artillery      | Mk 45 Mod 4                          | 127 mm (5 in) | Destroyers, Frigates  | 24–37 km     | USA, UK, Japan      |
 |                     | OTO Melara 76/62 Super Rapid         | 76 mm         | Corvettes, Frigates   | 16–20 km     | Italy, France       |
 |                     | AK-130                               | 130 mm        | Destroyers            | 22 km        | Russia             |
 |                     | BAE Advanced Gun System (AGS)        | 155 mm        | Destroyers            | 115 km       | USA                |
 |                     | Type 1130                            | 30 mm         | CIWS (Close-in Weapon) | Short range  | China              |
 |                     | AK-630                               | 30 mm         | CIWS                  | Short range  | Russia             |
-
+|---------------------|--------------------------------------|--------------|----------------------|--------------|--------------------|
 | Air-based Artillery  | GAU-8/A Avenger                     | 30 mm         | Aircraft (A-10 Thunderbolt) | 1.2 km (effective) | USA              |
 |                     | GSh-30-1                             | 30 mm         | Fighter Aircraft (Su-27)    | 1.5–2 km (effective) | Russia           |
 |                     | M230 Chain Gun                       | 30 mm         | Attack Helicopter (AH-64 Apache) | 1.5–4 km    | USA              |
 |                     | GSh-6-23                             | 23 mm         | Fighter Aircraft (MiG-31)   | 1.5 km (effective) | Russia           |
-
+|---------------------|--------------------------------------|--------------|----------------------|--------------|--------------------|
 | Firearms             | M16 Rifle                            | 5.56 mm       | Infantry Rifle         | 0.55 km      | USA                |
 |                     | AK-47                                | 7.62 mm       | Assault Rifle          | 0.4 km       | Russia             |
 |                     | Barrett M82                          | 12.7 mm (.50 cal) | Sniper Rifle         | 1.8 km       | USA                |
