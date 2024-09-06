@@ -297,6 +297,47 @@ Military bunkers, designed for protection and strategic defense, often house a v
 In addition to machine guns, military bunkers are equipped with heavier weaponry to deal with armored threats. Anti-tank guided missiles (ATGMs) like the Javelin or the Russian Kornet are frequently stationed within bunkers, providing the capability to destroy enemy tanks and armored personnel carriers from a distance. These bunkers may also have recoilless rifles and rocket-propelled grenades (RPGs) for closer encounters. These weapons are essential in defending against armored assaults, allowing bunkers to maintain a defensive perimeter even under heavy enemy pressure.
 
 #
+### Land and Naval Artillery
+
+![Artillery](https://github.com/user-attachments/assets/cc272f23-71c9-460e-8a70-c99f68d3241f)
+
+This table categorizes modern artillery systems and firearms across various platforms—land, sea, air, and personal firearms—highlighting their calibers, ranges, and countries of origin. For land artillery, systems like the M777 Howitzer and PzH 2000 are commonly used, with calibers typically ranging between 152 mm and 155 mm, and effective ranges extending up to 40 km. Naval artillery, such as the Mk 45 Mod 4 with a 127 mm caliber, is primarily mounted on destroyers and frigates for long-range engagement at sea, reaching ranges of up to 37 km. Air-based systems, like the GAU-8/A Avenger on the A-10 Thunderbolt, feature smaller calibers around 30 mm but are effective at close ranges for air-to-ground support. Finally, firearms, including rifles like the M16 (5.56 mm) and AK-47 (7.62 mm), as well as specialized weapons like the Barrett M82 sniper rifle (.50 cal), serve infantry and special forces with ranges from 0.4 to 1.8 km, demonstrating the broad spectrum of modern weaponry across different combat environments.
+
+......................................................................................................................................................
+
+| Type                | System Name                          | Caliber (mm) | Platform             | Range (km)   | Country            |
+|---------------------|--------------------------------------|--------------|----------------------|--------------|--------------------|
+| Land Artillery       | M777 Howitzer                        | 155 mm       | Towed                | 24–30 km     | USA, India, Canada  |
+|                     | PzH 2000                             | 155 mm       | Self-propelled        | 30–40 km     | Germany, Netherlands|
+|                     | M109 Paladin                         | 155 mm       | Self-propelled        | 22–30 km     | USA                |
+|                     | 2S19 Msta                            | 152 mm       | Self-propelled        | 24–29 km     | Russia             |
+|                     | Type 99                              | 155 mm       | Self-propelled        | 40 km        | China              |
+|                     | K9 Thunder                           | 155 mm       | Self-propelled        | 30–40 km     | South Korea, Turkey|
+|                     | M110                                 | 203 mm       | Self-propelled        | 24 km        | USA                |
+|                     | 2S7 Pion                             | 203 mm       | Self-propelled        | 37–47 km     | Russia             |
+|                     | Caesar Howitzer                      | 155 mm       | Wheeled               | 40 km        | France             |
+
+| Naval Artillery      | Mk 45 Mod 4                          | 127 mm (5 in) | Destroyers, Frigates  | 24–37 km     | USA, UK, Japan      |
+|                     | OTO Melara 76/62 Super Rapid         | 76 mm         | Corvettes, Frigates   | 16–20 km     | Italy, France       |
+|                     | AK-130                               | 130 mm        | Destroyers            | 22 km        | Russia             |
+|                     | BAE Advanced Gun System (AGS)        | 155 mm        | Destroyers            | 115 km       | USA                |
+|                     | Type 1130                            | 30 mm         | CIWS (Close-in Weapon) | Short range  | China              |
+|                     | AK-630                               | 30 mm         | CIWS                  | Short range  | Russia             |
+
+| Air-based Artillery  | GAU-8/A Avenger                     | 30 mm         | Aircraft (A-10 Thunderbolt) | 1.2 km (effective) | USA              |
+|                     | GSh-30-1                             | 30 mm         | Fighter Aircraft (Su-27)    | 1.5–2 km (effective) | Russia           |
+|                     | M230 Chain Gun                       | 30 mm         | Attack Helicopter (AH-64 Apache) | 1.5–4 km    | USA              |
+|                     | GSh-6-23                             | 23 mm         | Fighter Aircraft (MiG-31)   | 1.5 km (effective) | Russia           |
+
+| Firearms             | M16 Rifle                            | 5.56 mm       | Infantry Rifle         | 0.55 km      | USA                |
+|                     | AK-47                                | 7.62 mm       | Assault Rifle          | 0.4 km       | Russia             |
+|                     | Barrett M82                          | 12.7 mm (.50 cal) | Sniper Rifle         | 1.8 km       | USA                |
+|                     | FN SCAR                              | 7.62 mm       | Infantry Rifle         | 0.8 km       | Belgium            |
+|                     | Glock 17                             | 9 mm          | Handgun                | 0.05 km      | Austria            |
+|                     | HK MP5                               | 9 mm          | Submachine Gun         | 0.2 km       | Germany            |
+|                     | M249 SAW                             | 5.56 mm       | Light Machine Gun      | 0.8 km       | USA                |
+
+#
 
 ![Gold Gatling Gun](https://github.com/user-attachments/assets/48c8ad84-ff95-4f76-8386-6015897a97f3)
 
