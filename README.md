@@ -213,8 +213,8 @@ To add even more fun to your gift-giving, the Death Machine pairs perfectly with
 
 <br>
 
-Death Cause           | Death Machine Type     | Points Awarded
---------------------------------------------------------------
+|Death Cause           | Death Machine Type     | Points Awarded  |
+|---------------------|------------------------|------------------|
 Falling               | Trap door               | 50
 Falling               | Collapsing floor        | 60
 Crushing              | Giant hammer            | 120
