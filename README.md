@@ -211,6 +211,39 @@ Introducing the Death Machine, the ultimate gift for thrill-seekers and lovers o
 
 To add even more fun to your gift-giving, the Death Machine pairs perfectly with a vibrant, rainbow-striped gift box, creating a playful contrast between lightheartedness and danger. This combination offers a unique twist, balancing the dark and edgy with the colorful and cheerful. Whether it's for a prank, a themed event, or simply to inject some humor into a special occasion, the Death Machine delivers in style and impact. Make your next gift unforgettable with this one-of-a-kind package!
 
+<br>
+
+Death Cause           | Death Machine Type     | Points Awarded
+--------------------------------------------------------------
+Falling               | Trap door               | 50
+Falling               | Collapsing floor        | 60
+Crushing              | Giant hammer            | 120
+Crushing              | Press machine           | 110
+Crushing              | Compactor               | 100
+Piercing              | Spinning blades         | 90
+Piercing              | Spear trap              | 85
+Piercing              | Laser grid              | 95
+Burning               | Flamethrower trap       | 130
+Burning               | Molotov cocktail        | 110
+Exploding             | Landmine                | 140
+Exploding             | C4 explosive            | 130
+Exploding             | Remote bomb             | 125
+Electrocution         | Electric chair          | 160
+Electrocution         | Shock floor             | 150
+Electrocution         | High voltage wires      | 140
+Poisoning             | Poison gas trap         | 135
+Poisoning             | Acid spray              | 125
+Poisoning             | Toxin dart              | 115
+Slicing               | Guillotine              | 100
+Slicing               | Rotating saw blade      | 90
+Shooting              | Automated turret        | 140
+Shooting              | Sniper bot              | 130
+Shooting              | Machine gun nest        | 120
+Freezing              | Cryo chamber            | 150
+Freezing              | Freeze ray              | 135
+Suffocation           | Vacuum chamber          | 160
+Suffocation           | Noose trap              | 145
+
 #
 ### Naval Weapons
 
