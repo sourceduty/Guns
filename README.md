@@ -205,7 +205,7 @@ Moreover, the psychological impact of knives in combat should not be underestima
 #
 ### Death Machines
 
-![Death Machine Presents](https://github.com/user-attachments/assets/7656a49c-60bb-4e41-89d2-5543bd927093)
+![Death Machine Presents](https://github.com/user-attachments/assets/0eb77305-a5ef-4636-849d-6c8dbe28e905)
 
 Introducing the Death Machine, the ultimate gift for thrill-seekers and lovers of dark humor! With its bold design, featuring a menacing skull and gear emblem, this product is sure to grab attention and create excitement. The striking black packaging, highlighted by red glowing accents, gives off a powerful, mysterious vibe, making it the perfect gift for anyone who loves to stand out. Whether you're surprising a friend or making a bold statement, the Death Machine is guaranteed to leave an unforgettable impression. This is no ordinary present—it's an experience packed with suspense and intrigue!
 
