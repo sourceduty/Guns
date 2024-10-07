@@ -1,4 +1,4 @@
-![Transparent Clear Plastic AK-47](https://github.com/user-attachments/assets/706a3c60-d1f8-450c-a10a-ef56c3354ec2)
+![Gun](https://github.com/user-attachments/assets/d9703fbb-331e-4d1f-bd81-92a7a29f01f7)
 
 >  Guns, ammo, research and international security.
 
@@ -12,6 +12,9 @@ The intersection of guns with international law and diplomacy is also a critical
 
 #
 ### International Gun Security
+
+![Transparent Clear Plastic AK-47](https://github.com/user-attachments/assets/706a3c60-d1f8-450c-a10a-ef56c3354ec2)
+
 
 International gun security is a complex and multifaceted issue that requires coordinated efforts across nations, organizations, and civil society. The illegal trafficking of firearms across borders is a significant concern, contributing to violence, crime, and instability in many regions. To address this, international cooperation is essential, involving robust intelligence sharing, joint operations to dismantle trafficking networks, and harmonization of laws and regulations to prevent the smuggling of weapons. Programs such as the United Nations' Program of Action on Small Arms and Light Weapons (PoA) aim to enhance national capabilities in managing stockpiles, marking and tracing weapons, and enforcing arms embargoes.
 
