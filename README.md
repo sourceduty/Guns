@@ -434,5 +434,9 @@ This table categorizes modern artillery systems and firearms across various plat
 
 ![Loaded](https://github.com/user-attachments/assets/e755873b-7508-4537-bdd4-1d4858cf21eb)
 
+#
+
+![Nades](https://github.com/user-attachments/assets/304c0b76-2085-4527-8b2f-be40a10a5944)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
