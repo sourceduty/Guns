@@ -411,8 +411,6 @@ This table categorizes modern artillery systems and firearms across various plat
 
 [War Technology](https://github.com/sourceduty/War_Technology)
 <br>
-[Military Product](https://github.com/sourceduty/Military_Product)
-<br>
 [Russo-Ukrainain_War](https://github.com/sourceduty/Russo-Ukrainian_War)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
