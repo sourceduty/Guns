@@ -11,6 +11,15 @@ Internationally, firearms have far-reaching implications for global security and
 The intersection of guns with international law and diplomacy is also a critical area of concern. Nations often engage in arms deals as part of broader strategic alliances, which can shift the balance of power in volatile regions. Moreover, the global community faces the challenge of addressing the humanitarian impact of arms proliferation, particularly in terms of refugees and internally displaced persons fleeing violence. As such, the international community must grapple with complex issues related to arms control, disarmament, and the ethical implications of arms sales and military support to nations involved in human rights abuses or aggressive actions.
 
 #
+### Waterproof
+
+![Underwater](https://github.com/user-attachments/assets/baa420ad-e8d1-46ba-8e4d-739a1cd86ec0)
+
+Shooting black powder guns underwater presents unique challenges due to the need for waterproofing and the effects of water resistance. Black powder guns are traditionally designed for use in dry environments, and their ammunition is highly susceptible to moisture, which can make the powder clump or fail to ignite. Effective waterproofing techniques are essential to prevent water infiltration into both the gun’s barrel and the ammunition. This may involve sealing the chamber with wax or using specialized watertight cartridges. Furthermore, the ignition system, often using a flintlock or percussion cap in historical black powder firearms, requires careful insulation against water, as even a small amount of moisture can render these mechanisms inoperable. Thus, considerable adaptation is necessary to make black powder guns functional underwater, which often goes against their intended design.
+
+Even with waterproofing, a black powder gun is largely ineffective underwater due to water resistance, which drastically slows down any projectile. Water is approximately 800 times denser than air, meaning that as soon as a bullet exits the barrel, it loses momentum almost instantly. The dense medium dissipates the energy of the projectile, reducing its range and velocity significantly, rendering it practically useless as a weapon. This resistance also affects the stability and accuracy of the shot, as the bullet often tumbles or loses trajectory, unlike in the air where it follows a predictable path. For these reasons, while it may be possible to fire a black powder gun underwater with sufficient waterproofing, the practical application is severely limited, making it an unreliable choice for underwater use.
+
+#
 ### International Gun Security
 
 ![Transparent Clear Plastic AK-47](https://github.com/user-attachments/assets/706a3c60-d1f8-450c-a10a-ef56c3354ec2)
