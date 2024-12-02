@@ -24,7 +24,6 @@ Even with waterproofing, a black powder gun is largely ineffective underwater du
 
 ![Transparent Clear Plastic AK-47](https://github.com/user-attachments/assets/706a3c60-d1f8-450c-a10a-ef56c3354ec2)
 
-
 International gun security is a complex and multifaceted issue that requires coordinated efforts across nations, organizations, and civil society. The illegal trafficking of firearms across borders is a significant concern, contributing to violence, crime, and instability in many regions. To address this, international cooperation is essential, involving robust intelligence sharing, joint operations to dismantle trafficking networks, and harmonization of laws and regulations to prevent the smuggling of weapons. Programs such as the United Nations' Program of Action on Small Arms and Light Weapons (PoA) aim to enhance national capabilities in managing stockpiles, marking and tracing weapons, and enforcing arms embargoes.
 
 In conflict zones, securing arms depots and preventing the diversion of weapons to unauthorized groups is a critical aspect of international gun security. Disarmament, demobilization, and reintegration (DDR) programs are often implemented in post-conflict areas to reduce the number of weapons in circulation and to help former combatants reintegrate into society. However, these programs face significant challenges, including the lack of trust among former combatants, the influence of non-state actors, and the presence of ongoing conflicts that hinder disarmament efforts. Strengthening these programs requires not only technical assistance but also the political will of both national governments and international bodies to ensure comprehensive and sustained efforts.
@@ -63,7 +62,6 @@ A home security system represents a striking blend of modern technology and adva
 The setting of this security system adds to its futuristic and slightly dystopian feel. Installed in what appears to be a modern living room, the system is surrounded by neutral-toned furniture and minimalistic decor, bathed in a mix of natural and artificial light. This juxtaposition of a warm, inviting home environment with the stark, potentially lethal security setup creates a sense of tension and highlights the lengths to which some might go to ensure their personal safety. The overall atmosphere suggests a world where security concerns have escalated to the point where traditional surveillance is augmented by direct defensive capabilities.
 
 While the concept of integrating a handgun with a security camera may seem extreme, it speaks to the evolving nature of security technology and the growing emphasis on personal protection in uncertain times. This setup could be seen as a response to the perceived inadequacies of conventional security measures, offering not just passive surveillance but an active deterrent against intruders. However, it also raises important ethical and practical questions about the use of such technology in private homes, the potential for misuse, and the implications for personal safety and societal norms.
-
 
 #
 ### Weapons and Honor Corruption
@@ -161,6 +159,8 @@ Fully automatic firearms and submachine guns are also at high risk of accidental
 #
 ### Inert and Handled
 
+![Bourne](https://github.com/user-attachments/assets/88909506-4ec8-4261-bbbc-4b83626e1fb1)
+
 Guns, by their nature, are inert objects that remain harmless unless acted upon. Without human intervention, a gun cannot fire or cause harm. This inherent inertness means that the safety of a firearm in its natural state is determined by its design and condition. Factors such as the presence of safety mechanisms, proper maintenance, and secure storage all contribute to the inert state of a gun, ensuring it remains a non-threatening tool when not actively used.
 
 The potential danger of a gun arises when it is handled by a person. Human interaction introduces the risk, as the act of pulling the trigger or mishandling a loaded firearm can result in an unintended discharge. This highlights the importance of proper training, education, and adherence to safety protocols in firearm handling. Knowledge of gun mechanics, treating every gun as if it is loaded, and practicing safe storage are critical measures that reduce the likelihood of accidents and ensure that firearms are handled responsibly.
@@ -213,48 +213,6 @@ Weapons that support firearms, such as knives, play a crucial role in combat sce
 In a combat situation, knives can serve as a stealth weapon, allowing the user to silently neutralize an opponent without drawing attention or causing a loud disturbance, as a firearm would. This makes knives particularly valuable in situations where maintaining silence is critical, such as in reconnaissance missions or ambush scenarios. Additionally, knives are often used in conjunction with firearms during hand-to-hand combat, where the close proximity of the adversary makes it difficult to effectively use a gun. In these instances, a knife provides a quick and deadly alternative, giving the wielder an advantage in a life-or-death struggle.
 
 Moreover, the psychological impact of knives in combat should not be underestimated. The sight of a knife, especially one with a combat-oriented design like a military knife or a bayonet, can have a profound effect on an opponent, often instilling fear or hesitation. This psychological edge can be pivotal in close-quarters engagements, where split-second decisions determine the outcome. Knives also symbolize readiness and preparedness, as they are often associated with survival instincts and a willingness to engage in combat at close range. Their presence alongside firearms not only complements the firepower but also enhances the overall combat effectiveness of the individual or unit carrying them.
-
-#
-### Death Machines
-
-![Death Machine Presents](https://github.com/user-attachments/assets/0eb77305-a5ef-4636-849d-6c8dbe28e905)
-
-Introducing the Death Machine, the ultimate gift for thrill-seekers and lovers of dark humor! With its bold design, featuring a menacing skull and gear emblem, this product is sure to grab attention and create excitement. The striking black packaging, highlighted by red glowing accents, gives off a powerful, mysterious vibe, making it the perfect gift for anyone who loves to stand out. Whether you're surprising a friend or making a bold statement, the Death Machine is guaranteed to leave an unforgettable impression. This is no ordinary present—it's an experience packed with suspense and intrigue!
-
-To add even more fun to your gift-giving, the Death Machine pairs perfectly with a vibrant, rainbow-striped gift box, creating a playful contrast between lightheartedness and danger. This combination offers a unique twist, balancing the dark and edgy with the colorful and cheerful. Whether it's for a prank, a themed event, or simply to inject some humor into a special occasion, the Death Machine delivers in style and impact. Make your next gift unforgettable with this one-of-a-kind package!
-
-<br>
-
-|Death Cause           | Death Machine Type     | Points Awarded  |
-|---------------------|------------------------|------------------|
-Falling               | Trap door               | 50
-Falling               | Collapsing floor        | 60
-Crushing              | Giant hammer            | 120
-Crushing              | Press machine           | 110
-Crushing              | Compactor               | 100
-Piercing              | Spinning blades         | 90
-Piercing              | Spear trap              | 85
-Piercing              | Laser grid              | 95
-Burning               | Flamethrower trap       | 130
-Burning               | Molotov cocktail        | 110
-Exploding             | Landmine                | 140
-Exploding             | C4 explosive            | 130
-Exploding             | Remote bomb             | 125
-Electrocution         | Electric chair          | 160
-Electrocution         | Shock floor             | 150
-Electrocution         | High voltage wires      | 140
-Poisoning             | Poison gas trap         | 135
-Poisoning             | Acid spray              | 125
-Poisoning             | Toxin dart              | 115
-Slicing               | Guillotine              | 100
-Slicing               | Rotating saw blade      | 90
-Shooting              | Automated turret        | 140
-Shooting              | Sniper bot              | 130
-Shooting              | Machine gun nest        | 120
-Freezing              | Cryo chamber            | 150
-Freezing              | Freeze ray              | 135
-Suffocation           | Vacuum chamber          | 160
-Suffocation           | Noose trap              | 145
 
 #
 ### Naval Weapons
