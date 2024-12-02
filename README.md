@@ -226,7 +226,7 @@ In modern naval warfare, while missiles and advanced electronic warfare systems 
 #
 ### Gun Brains
 
-![Desk Pop](https://github.com/user-attachments/assets/4d5b5898-6b8a-4ca8-9856-d29fbfe0a6bd)
+![Desk Pop](https://github.com/user-attachments/assets/8be52512-958d-499e-9a05-8321576d7d87)
 
 The relationship between guns, ammo, and psychology is multifaceted, deeply intertwined with issues of identity, power, and fear. For many, firearms symbolize control and security, offering a tangible means to protect oneself and assert dominance in uncertain situations. The psychological impact of possessing a gun can instill a sense of confidence and preparedness, particularly in environments perceived as dangerous. However, this can also lead to a heightened state of alertness or paranoia, where the presence of a weapon may amplify feelings of threat rather than mitigate them. The cultural and personal significance of guns often goes beyond their practical use, becoming emblematic of autonomy and resistance, particularly in societies where personal freedom is highly valued.
 
