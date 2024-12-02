@@ -353,17 +353,6 @@ This table categorizes modern artillery systems and firearms across various plat
 
 ![Gold Gatling Gun](https://github.com/user-attachments/assets/48c8ad84-ff95-4f76-8386-6015897a97f3)
 
-#
-
-> Alex: "*My communication would remain silent in conflict or global war.*"
-
-> Alex: "*Those who are approved to operate firearms should be integrated into a national military system and forced to honor the country they live in.*"
-
-> "*A global movement against guns might be the only solution to any gun control problems as this is an international problem.*"
-
-> "*Integrating firearm operators into a national military system could ensure that they receive enhanced national security, standardization, high-quality training, which might enhance safety, honorability and proficiency.*"
-
-> "*I'm not a gun enthusiast but I know them.*" 
 
 #
 
