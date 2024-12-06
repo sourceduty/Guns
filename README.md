@@ -42,6 +42,13 @@ Beyond safety features, smart firearms often come equipped with advanced targeti
 In the realm of machine guns, smart technology can introduce features like automated firing controls, which adjust fire rate based on situational analysis, or integration with drones and other AI systems for enhanced battlefield coordination. These enhancements can turn a standard machine gun into a versatile and intelligent weapon platform capable of adapting to a wide range of combat scenarios. While the development and deployment of such smart weapons raise ethical and security concerns, especially regarding the potential for hacking or misuse, their potential to revolutionize personal and military defense systems is undeniable.
 
 #
+### Offline AI Weapons
+
+![AI](https://github.com/user-attachments/assets/19464f72-9bdc-482f-a32d-5360a99092bd)
+
+There is potential use cases for malicious offline AI models were they are developed as autonomous weapon systems without any oversight from human operators. By training an AI model on data related to military tactics and target acquisition, it might become capable of making lethal decisions independently - potentially violating international laws regarding autonomous weaponry or causing unintended civilian casualties due to the lack of human intervention.
+
+#
 ### Firearms and Heavy Arms Production
 
 ![Arctic Turret](https://github.com/user-attachments/assets/2b84d838-beb4-4841-adb9-2626c40ce779)
@@ -279,6 +286,8 @@ In recent years, weapon experiments have increasingly focused on emerging techno
 #
 ### Banned Weapons
 
+![Robokiller](https://github.com/user-attachments/assets/b8052431-6e69-498d-928c-60e7fbed5b0b)
+
 Technologies like nuclear bullets and other controversial weapons are not pursued by NATO due to the significant ethical, legal, and humanitarian concerns they present. From an ethical standpoint, these weapons could lead to indiscriminate harm, causing massive civilian casualties and long-term environmental damage. Such outcomes conflict with NATO’s commitment to upholding high moral standards and protecting human life. Legally, the development and use of controversial weapons often violate international treaties, such as the Treaty on the Non-Proliferation of Nuclear Weapons (NPT). Engaging in activities that contravene these agreements could result in international condemnation, sanctions, and a diminished reputation for NATO as a responsible and lawful international entity.
 
 Humanitarian concerns further drive NATO's decision to avoid controversial weapons. The potential for widespread destruction and long-lasting health effects, such as radiation sickness, poses serious threats to both current and future generations. Introducing such weapons could escalate tensions, provoke arms races, and undermine global non-proliferation efforts, leading to a more unstable and insecure world. By avoiding the development of controversial weapons, NATO aims to prevent actions that could trigger conflicts, violate international norms, or cause severe humanitarian crises, thus maintaining global security and contributing to international peace and stability.
@@ -354,16 +363,8 @@ This table categorizes modern artillery systems and firearms across various plat
 |                     | M249 SAW                             | 5.56 mm       | Light Machine Gun      | 0.8 km       | USA                |
 
 #
-
 ![Gold Gatling Gun](https://github.com/user-attachments/assets/48c8ad84-ff95-4f76-8386-6015897a97f3)
-
-
 #
-
-![Robokiller](https://github.com/user-attachments/assets/b8052431-6e69-498d-928c-60e7fbed5b0b)
-
-#
-
 ![Coffin Machine Website](https://github.com/user-attachments/assets/1f0a1985-96bf-4a2a-8c80-2aac5070b763)
 
 #
