@@ -31,6 +31,8 @@ The roots of international gun problems can be traced back to the invention of t
 The influence of this early firearm has echoed into modern times, laying the groundwork for today’s global gun issues. As handheld firearms evolved into semi-automatic pistols, rifles, and eventually military-grade assault weapons, they became not only tools of warfare but also symbols of personal power, self-defense, and, unfortunately, criminal violence. Today, the proliferation of guns has fueled international concerns ranging from armed conflicts and terrorism to organized crime and mass shootings in civilian settings. Countries face ongoing debates around gun control laws, the ethics of manufacturing and exporting weapons, and the societal toll of gun violence. While the first gun may have been a technological marvel of its time, its legacy is a double-edged sword—representing both human ingenuity and the long-standing challenges of regulating force in a global society increasingly shaped by its consequences.
 
 #
+![Guns](https://github.com/user-attachments/assets/7b39de88-caa5-4212-82bc-c74795330034)
+#
 
 [Military AI](https://github.com/sourceduty/Military_AI)
 <br>
