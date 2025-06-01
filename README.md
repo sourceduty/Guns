@@ -32,6 +32,7 @@ The influence of this early firearm has echoed into modern times, laying the gro
 
 #
 ![Guns](https://github.com/user-attachments/assets/7b39de88-caa5-4212-82bc-c74795330034)
+![Trigger Decision](https://github.com/user-attachments/assets/12782692-dd57-4413-945c-cbb3c367812c)
 #
 
 [Military AI](https://github.com/sourceduty/Military_AI)
