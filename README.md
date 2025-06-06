@@ -31,6 +31,14 @@ The roots of international gun problems can be traced back to the invention of t
 The influence of this early firearm has echoed into modern times, laying the groundwork for today’s global gun issues. As handheld firearms evolved into semi-automatic pistols, rifles, and eventually military-grade assault weapons, they became not only tools of warfare but also symbols of personal power, self-defense, and, unfortunately, criminal violence. Today, the proliferation of guns has fueled international concerns ranging from armed conflicts and terrorism to organized crime and mass shootings in civilian settings. Countries face ongoing debates around gun control laws, the ethics of manufacturing and exporting weapons, and the societal toll of gun violence. While the first gun may have been a technological marvel of its time, its legacy is a double-edged sword—representing both human ingenuity and the long-standing challenges of regulating force in a global society increasingly shaped by its consequences.
 
 #
+
+![Americaneye](https://github.com/user-attachments/assets/df64798c-6eac-45d2-91a9-df94276a0b3e)
+
+The assassination attempt on Donald Trump at the Butler, Pennsylvania rally on July 13, 2024, has fueled speculation that the event was foreplanned to create a dramatic political moment. Unlike any routine campaign stop, this rally unfolded with an almost cinematic level of precision—an assailant positioned on a rooftop, an immediate and fatal response from security forces, and Trump emerging with a minor injury yet a heroic narrative. Given the standard security protocols in place for such high-profile figures, the breach in protection raises questions. Why was a gunman able to position himself so conveniently within range? Why did the event lack proactive measures such as counter-snipers, despite past threats? The fact that this was the first event where counter-snipers were officially deployed only adds to the irony—yet the shooter still got his shots off. For some, it seems too perfectly orchestrated to be mere coincidence.
+
+There is an almost comedic absurdity in the way Trump’s security forces “failed” just enough to let the attempt happen but succeeded in ensuring his survival. The narrative that emerged afterward played into a well-crafted storyline—Trump, the indomitable leader, surviving an attack and returning to the stage, bloodied but unbowed. The visual of him raising a fist, defiant, was an instant campaign poster. If this were a scripted event, it would be a masterpiece of political theater, securing sympathy, outrage, and a rallying cry for his supporters. Some skeptics argue that, whether by design or sheer luck, the event gave Trump precisely what he needed: a surge in public support, a direct contrast to claims of weakness, and a dramatic moment that will define his campaign.
+
+#
 ![Guns](https://github.com/user-attachments/assets/7b39de88-caa5-4212-82bc-c74795330034)
 #
 
