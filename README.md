@@ -42,6 +42,10 @@ There is an almost comedic absurdity in the way Trump’s security forces “fai
 ![Guns](https://github.com/user-attachments/assets/7b39de88-caa5-4212-82bc-c74795330034)
 #
 
+Alex: _I can't stop, improve or buy guns. I don't like gun culture, shooting and I can't join or work the military._
+
+#
+
 [Military AI](https://github.com/sourceduty/Military_AI)
 <br>
 [Tactical Product](https://chatgpt.com/g/g-68138132fdc0819189ff4a4b84badf77-tactical-product)
